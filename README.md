@@ -230,3 +230,10 @@ Acknowledgement
 Built for FIT-FEST 2026 Hackathon organized at Flora Institute of Technology, Pune.
 
 Hashtags:   #FITFEST2026 #FITFESTHACKATHON #GDGFITPUNE #GDGPUNE #FLORAINSTITUTES #FLORAINSTITUTEOFTECHNOLOGY #HACKATHON2026 #PUNEHACKATHON #STUDENTHACKATHON #TECHHACKATHON
+
+
+
+Requirments:
+ Live Demo: https://taskflow-ten-rosy.vercel.app/
+GitHub: https://github.com/maneasmita271-ops/taskflow
+LinkedIn Post : https://lnkd.in/p/dxFY8DzZ
